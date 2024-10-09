@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1%40deployment": "file:///Users/samit/DevPlayground/K8SForDev/K8SBasicDay4/workshop_mern_deployed/mongodb_deployed.yaml"
+    }
+}
